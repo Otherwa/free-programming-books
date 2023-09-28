@@ -151,5 +151,8 @@
 * [الدليل العملي إلى قواعد بيانات PostgreSQL&rlm;](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - Craig Kerstiens، مصطفى عطا العايش (PDF)
 * [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan&rlm; (PDF)
 
+## AI
+
+* [Foundations of AI](https://github.com/Otherwa/python/blob/main/AI.pdf) - Elaine Rich, Kevin Knight,Shivashankar B Nair&rlm; (PDF) *
 
 </div>
